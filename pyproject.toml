@@ -1,0 +1,7 @@
+[project]
+name = "hadith-py-mutawatir-ahad-rank"
+version = "1.0.0"
+description = "Transmission Multiplicity Classifier (Mutawatir, Mashhur, Aziz, Gharib) (مصنف الحديث إلى متواتر ومشهور وعزيز وغريب)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
